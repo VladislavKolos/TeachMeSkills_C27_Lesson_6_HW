@@ -1,4 +1,4 @@
-package com.teachmeskills.hw7.task1.creditcard;
+package com.teachmeskills.hw6.task1.creditcard;
 
 public class CreditCard {
     public String bankAccountNumber;

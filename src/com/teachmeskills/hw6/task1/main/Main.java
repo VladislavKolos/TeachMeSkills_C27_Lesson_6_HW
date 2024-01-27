@@ -1,7 +1,7 @@
-package com.teachmeskills.hw7.task1.main;
+package com.teachmeskills.hw6.task1.main;
 
-import com.teachmeskills.hw7.task1.creditcard.CreditCard;
-import com.teachmeskills.hw7.task1.operations.Operations;
+import com.teachmeskills.hw6.task1.creditcard.CreditCard;
+import com.teachmeskills.hw6.task1.operations.Operations;
 
 import java.util.Scanner;
 

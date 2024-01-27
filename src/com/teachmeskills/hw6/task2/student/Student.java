@@ -1,4 +1,4 @@
-package com.teachmeskills.hw7.task2.student;
+package com.teachmeskills.hw6.task2.student;
 
 public class Student {
     public String firstName;

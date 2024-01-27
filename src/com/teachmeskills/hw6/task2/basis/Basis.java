@@ -1,7 +1,7 @@
-package com.teachmeskills.hw7.task2.basis;
+package com.teachmeskills.hw6.task2.basis;
 
-import com.teachmeskills.hw7.task2.output.Output;
-import com.teachmeskills.hw7.task2.student.Student;
+import com.teachmeskills.hw6.task2.output.Output;
+import com.teachmeskills.hw6.task2.student.Student;
 
 public class Basis {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package com.teachmeskills.hw7.task2.output;
+package com.teachmeskills.hw6.task2.output;
 
-import com.teachmeskills.hw7.task2.student.Student;
+import com.teachmeskills.hw6.task2.student.Student;
 
 public class Output {
     public void outputArrayOfStudent(Student[] array) {

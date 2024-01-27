@@ -1,6 +1,6 @@
-package com.teachmeskills.hw7.task1.operations;
+package com.teachmeskills.hw6.task1.operations;
 
-import com.teachmeskills.hw7.task1.creditcard.CreditCard;
+import com.teachmeskills.hw6.task1.creditcard.CreditCard;
 
 public class Operations {
     public double addAmountToCreditCard(CreditCard creditCard, double addAmount) {
