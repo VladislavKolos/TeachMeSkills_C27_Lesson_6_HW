@@ -1,5 +1,5 @@
-# TeachMeSkills_C27_Lesson_7_HW
-Homework for the seventh lesson 
+# TeachMeSkills_C27_Lesson_6_HW
+Homework for the sixth lesson 
 
 1. **task1** we created a class "CreditCard" with the fields "bankAccountNumber" and "amountOnAccount". Created one constructor with two parameters. In the new class "Operations" created methods for adding and withdrawing amounts and outputting information to the console. Operations are performed, objects are created, methods are called in the new class "Main".
 
